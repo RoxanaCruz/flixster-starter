@@ -42,7 +42,7 @@ Estimated time spent: **20** hours spent in total
 
 ### Walkthrough Video
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/38c8eecd2d3b4c8c88cf9eac15ae96f3?sid=3a6a792d-3b16-4c1a-aaae-97575b01b54c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/ee44c8aabdf84b829cc539ea08a279e6?sid=3741781d-f762-48de-9dc3-1908e82bd53d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Reflection
 
